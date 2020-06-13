@@ -1,1 +1,2 @@
 This is second file created from github directly.
+Added somemore text from github.
